@@ -1,0 +1,1473 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hamela\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-19 08:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: hamela"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:98
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/customizer.php:702 inc/customizer.php:830 inc/customizer.php:1990
+#: inc/customizer.php:2036
+msgid " Opacity =1 for Background Color"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "% Com"
+msgstr ""
+
+#: comments.php:92
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/options/controls/dropdown-sidebars.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/sidebar_manage.php:187
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "0 Com"
+msgstr ""
+
+#: inc/customizer.php:560 inc/customizer.php:2611
+msgid "1 Columns"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "1 Com"
+msgstr ""
+
+#: inc/customizer.php:1357
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:561 inc/customizer.php:1066 inc/customizer.php:1347
+#: inc/customizer.php:1539 inc/customizer.php:1751 inc/customizer.php:2595
+#: inc/customizer.php:2612 inc/customizer.php:2628
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer.php:1609
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:1067 inc/customizer.php:1348 inc/customizer.php:1540
+#: inc/customizer.php:1752 inc/customizer.php:2596 inc/customizer.php:2613
+#: inc/customizer.php:2629
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer.php:1068 inc/customizer.php:1541 inc/customizer.php:1753
+#: inc/customizer.php:2597 inc/customizer.php:2614 inc/customizer.php:2630
+msgid "4 Columns"
+msgstr ""
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:177
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer.php:2598 inc/customizer.php:2615 inc/customizer.php:2631
+msgid "5 Columns"
+msgstr ""
+
+#: inc/sidebar_manage.php:187
+msgid "Add a sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "Add widgets here to appear in your sidebar Blog Sidebar."
+msgstr ""
+
+#: functions.php:145
+msgid "Add widgets here to appear in your sidebar Blog single Sidebar."
+msgstr ""
+
+#: functions.php:166
+msgid "Add widgets here to appear in your sidebar Footer area 1."
+msgstr ""
+
+#: functions.php:176
+msgid "Add widgets here to appear in your sidebar Footer area 2."
+msgstr ""
+
+#: functions.php:155
+msgid "Add widgets here to appear in your sidebar Portfolios Sidebar."
+msgstr ""
+
+#: demo/import-demo.php:13
+msgid "After you import this demo, you will have to setup the MailChimp form."
+msgstr ""
+
+#: functions.php:384
+msgid "ago"
+msgstr ""
+
+#: inc/customizer.php:1000
+msgid "All options in this section will be used to make style for blog page."
+msgstr ""
+
+#: inc/customizer.php:1205
+msgid ""
+"Also, you can change the style for blog single to make your site unique."
+msgstr ""
+
+#: inc/sidebar_manage.php:269
+msgid "Appearance > Sidebars"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:178
+msgid "Archives"
+msgstr ""
+
+#: inc/sidebar_manage.php:168
+msgid "Are you sure you want to remove"
+msgstr ""
+
+#: inc/customizer.php:2582
+msgid "Assending"
+msgstr ""
+
+#: inc/customizer.php:2564
+msgid "Author"
+msgstr ""
+
+#: tpl/page-title.php:45
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: 404.php:26
+msgid "Back To Home Page"
+msgstr ""
+
+#: inc/customizer.php:12
+msgid "Backgound PageTitle"
+msgstr ""
+
+#: inc/customizer.php:971
+msgid "Background Image Size"
+msgstr ""
+
+#: archive-portfolios.php:83
+msgid "big detail"
+msgstr ""
+
+#: inc/customizer.php:991
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:1045 inc/customizer.php:1326
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/customizer.php:1042
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:1044 inc/customizer.php:1325
+msgid "Blog List"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Blog Posts"
+msgstr ""
+
+#: functions.php:133
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1196
+msgid "Blog Single"
+msgstr ""
+
+#: functions.php:143
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer.php:763
+msgid "Body Color"
+msgstr ""
+
+#: inc/customizer.php:1768
+msgid "BODY FONT"
+msgstr ""
+
+#: inc/options/controls/typography.php:66
+msgid "Bold 700"
+msgstr ""
+
+#: inc/options/controls/typography.php:67
+msgid "Bold 700 italic"
+msgstr ""
+
+#: inc/helpers.php:112
+msgid "Border"
+msgstr ""
+
+#: inc/customizer.php:569
+msgid "BOTTOM"
+msgstr ""
+
+#: inc/customizer.php:1908
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/customizer.php:1929
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/customizer.php:1949
+msgid "Breadcrumb Link Color Hover"
+msgstr ""
+
+#: inc/customizer.php:2149
+msgid "Breadcrumb Prefix"
+msgstr ""
+
+#: inc/customizer.php:2166
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:1970
+msgid "Breadcrumb Separator Color"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:175
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer.php:2098
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:2035
+msgid "Button On Page Title"
+msgstr ""
+
+#: inc/customizer.php:2064
+msgid "Button Show"
+msgstr ""
+
+#: inc/customizer.php:2534
+msgid "Carosuel"
+msgstr ""
+
+#: inc/customizer.php:2535
+msgid "Carosuel No Margin"
+msgstr ""
+
+#: inc/customizer.php:1823
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Circle Loaders 1"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Circle Loaders 2"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Circle Loaders 3"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Circle Loaders 4"
+msgstr ""
+
+#: inc/helpers.php:235
+msgid "Classic"
+msgstr ""
+
+#: tpl/header/header-style1.php:31 tpl/header/header-style2.php:31
+#: tpl/header/header-style3.php:31
+msgid "close"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Columns Footer"
+msgstr ""
+
+#: inc/customizer.php:1345
+msgid "Columns Of Related Posts"
+msgstr ""
+
+#: inc/customizer.php:1537 inc/customizer.php:1749
+msgid "Columns Related"
+msgstr ""
+
+#: comments.php:80
+msgid "COMMENT (1)"
+msgstr ""
+
+#: inc/customizer.php:2567
+msgid "Comment Count"
+msgstr ""
+
+#: comments.php:90
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:80
+msgid "COMMENTS (%)"
+msgstr ""
+
+#: comments.php:98
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/customizer.php:2434
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Content Topbar"
+msgstr ""
+
+#: inc/customizer.php:588
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:2433
+msgid "Cover"
+msgstr ""
+
+#: inc/helpers.php:309
+msgid "Create a Menu"
+msgstr ""
+
+#: inc/sidebar_manage.php:193
+msgid "CSS class"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Custom Header"
+msgstr ""
+
+#: inc/customizer.php:351 inc/elementor-options/elementor-options.php:153
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/options/controls/typography.php:79
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/options/controls/typography.php:75
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:764
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1048
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: tpl/page-title.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/customizer.php:2562
+msgid "Date"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:77
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:2581
+msgid "Descending"
+msgstr ""
+
+#: inc/helpers.php:36
+msgid "Design Options"
+msgstr ""
+
+#: comments.php:126
+msgid "E-mail Address :"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1139
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1175
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1192
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1223
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer.php:2132
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:2027
+msgid "Enable Heading Page Title"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Enable Less"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Enable Preload"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: inc/helpers.php:796
+msgid "ENG"
+msgstr ""
+
+#: inc/helpers.php:800
+msgid "English"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:239
+msgid "Extra Classes"
+msgstr ""
+
+#: inc/options/controls/typography.php:68
+msgid "Extra-bold 800"
+msgstr ""
+
+#: inc/options/controls/typography.php:69
+msgid "Extra-bold 800 italic"
+msgstr ""
+
+#: inc/options/controls/typography.php:54
+msgid "Extra-light 200"
+msgstr ""
+
+#: inc/options/controls/typography.php:55
+msgid "Extra-light 200 italic"
+msgstr ""
+
+#: inc/customizer.php:975 inc/customizer.php:1867
+msgid "Fill Screen"
+msgstr ""
+
+#: inc/customizer.php:974 inc/customizer.php:1866
+msgid "Fit to Screen"
+msgstr ""
+
+#: inc/options/controls/typography.php:202
+msgid "Font Color"
+msgstr ""
+
+#: inc/options/controls/typography.php:98
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer.php:2183 inc/customizer.php:2219 inc/customizer.php:2378
+#: inc/customizer.php:2411
+msgid "Font name/style/sets"
+msgstr ""
+
+#: inc/options/controls/typography.php:178
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/options/controls/typography.php:152
+msgid "Font subsets"
+msgstr ""
+
+#: inc/options/controls/typography.php:119
+msgid "Font Weight & Style"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Footer Color"
+msgstr ""
+
+#: functions.php:164
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:174
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "footer widgets"
+msgstr ""
+
+#: inc/customizer.php:2493
+msgid "footer_default"
+msgstr ""
+
+#: inc/customizer.php:2497
+msgid "Four"
+msgstr ""
+
+#: inc/helpers.php:805
+msgid "French"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:2449
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "General"
+msgstr ""
+
+#: inc/helpers.php:810
+msgid "German"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Go top"
+msgstr ""
+
+#: inc/options/controls/typography.php:76
+msgid "Greek"
+msgstr ""
+
+#: inc/options/controls/typography.php:77
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer.php:2480 inc/customizer.php:2531
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:2532
+msgid "Grid Masonry"
+msgstr ""
+
+#: inc/customizer.php:2533
+msgid "Grid Masonry No Margin"
+msgstr ""
+
+#: inc/customizer.php:2239
+msgid "H1 font size (px)"
+msgstr ""
+
+#: inc/customizer.php:2260
+msgid "H2 font size (px)"
+msgstr ""
+
+#: inc/customizer.php:2281
+msgid "H3 font size (px)"
+msgstr ""
+
+#: inc/customizer.php:2302
+msgid "H4 font size (px)"
+msgstr ""
+
+#: inc/customizer.php:2323
+msgid "H5 font size (px)"
+msgstr ""
+
+#: inc/customizer.php:2344
+msgid "H6 font size (px)"
+msgstr ""
+
+#. Name of the theme
+msgid "Hamela"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Hamela is responsive multipurpose WordPress theme – truly a versatile theme "
+"perfect for any type of website you want. It provides multiple pre-built "
+"demos which can be imported in seconds using One Click Demo Import Plugin. "
+"The theme fully integrates with ThemesFlat By Themesflat.com and Elementor "
+"Page Builder Plugin that makes theme more user-friendly and easy. "
+"Additionally, theme features multiple blog layouts,  multiple header styles, "
+"multiple color options etc."
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Header"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:131
+msgid "Header 01"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:133
+msgid "Header 02"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:135
+msgid "Header 03"
+msgstr ""
+
+#: inc/customizer.php:829
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:810
+msgid "HEADER COLOR"
+msgstr ""
+
+#: tpl/header/header-style1.php:9 tpl/header/header-style2.php:9
+#: tpl/header/header-style3.php:9
+msgid "header detail 1"
+msgstr ""
+
+#: tpl/header/header-style1.php:12 tpl/header/header-style2.php:12
+#: tpl/header/header-style3.php:12
+msgid "header detail 2"
+msgstr ""
+
+#: inc/customizer.php:477
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/customizer.php:496 inc/elementor-options/elementor-options.php:123
+msgid "Header Style"
+msgstr ""
+
+#: inc/helpers.php:236
+msgid "Header style 02"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Header Style 1"
+msgstr ""
+
+#: inc/customizer.php:503
+msgid "Header Style 2"
+msgstr ""
+
+#: inc/customizer.php:507
+msgid "Header Style 3"
+msgstr ""
+
+#: inc/customizer.php:2193
+msgid "Headings fonts"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:213
+msgid "Hide Page Title"
+msgstr ""
+
+#: tpl/page-title.php:94 inc/breadcrumb-trail/breadcrumb-trail.php:176
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:746
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. URI of the theme
+msgid "https://hamelawp.themesflat.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themesflat/portfolio"
+msgstr ""
+
+#: inc/customizer.php:2563
+msgid "Id"
+msgstr ""
+
+#: inc/customizer.php:380 inc/customizer.php:403
+msgid ""
+"If you don't display logo please remove it your website display \n"
+"                Site Title default in General"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "In - "
+msgstr ""
+
+#: inc/customizer.php:359
+msgid ""
+"In this section You can upload your own custom logo, change the way your "
+"logo can be displayed"
+msgstr ""
+
+#: content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/helpers.php:794
+msgid "Language"
+msgstr ""
+
+#: tpl/page-title.php:14
+msgid "Latest News"
+msgstr ""
+
+#: inc/options/controls/typography.php:81
+msgid "Latin"
+msgstr ""
+
+#: inc/options/controls/typography.php:78
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Layout Style"
+msgstr ""
+
+#: comments.php:108
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: inc/customizer.php:1822
+msgid "Left"
+msgstr ""
+
+#: inc/options/controls/typography.php:56
+msgid "Light 300"
+msgstr ""
+
+#: inc/options/controls/typography.php:57
+msgid "Light 300 italic"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:189
+msgid "Light Mode"
+msgstr ""
+
+#: inc/options/controls/typography.php:190
+msgid "Line height (ex: 25px or 1.8 or 150%)"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Line Loaders"
+msgstr ""
+
+#: inc/customizer.php:1087
+msgid "List Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:1249
+msgid "List Sidebar Single Position"
+msgstr ""
+
+#: inc/customizer.php:1189 inc/customizer.php:2549 tpl/pagination.php:45
+msgid "Load More"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Logo Box Controls (px)"
+msgstr ""
+
+#: inc/customizer.php:878
+msgid "Mainnav link color"
+msgstr ""
+
+#: inc/customizer.php:898
+msgid "Mainnav link hover & active color"
+msgstr ""
+
+#: inc/helpers.php:88
+msgid "Margin"
+msgstr ""
+
+#: inc/options/controls/typography.php:62
+msgid "Medium 500"
+msgstr ""
+
+#: inc/options/controls/typography.php:63
+msgid "Medium 500 italic"
+msgstr ""
+
+#: tpl/header/header-style1.php:30 tpl/header/header-style2.php:30
+#: tpl/header/header-style3.php:30
+msgid "menu"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "MENU COLOR"
+msgstr ""
+
+#: inc/customizer.php:2361
+msgid "Menu fonts"
+msgstr ""
+
+#: inc/customizer.php:2568
+msgid "Menu Order"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1171
+msgid "Merge"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail/breadcrumb-trail.php:184
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:712
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:729
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/helpers.php:237
+msgid "Modern"
+msgstr ""
+
+#: inc/customizer.php:2566
+msgid "Modified"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:763
+#: inc/breadcrumb-trail/breadcrumb-trail.php:827
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1044
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: tpl/page-title.php:50
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/sidebar_manage.php:192
+msgid "Name"
+msgstr ""
+
+#: comments.php:93
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: tpl/pagination.php:43
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid "Next Post"
+msgstr ""
+
+#: comments.php:123
+msgid "Nick name :"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:195
+#: inc/elementor-options/elementor-options.php:219
+msgid "No"
+msgstr ""
+
+#: comments.php:80
+msgid "NO COMMENT"
+msgstr ""
+
+#: inc/customizer.php:1024 inc/customizer.php:1230 inc/customizer.php:2644
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/sidebar_manage.php:214
+msgid "No Sidebars defined"
+msgstr ""
+
+#. Name of the template
+msgid "No-Padding"
+msgstr ""
+
+#: inc/options/controls/typography.php:58
+#: inc/options/controls/typography.php:60
+msgid "Normal 400"
+msgstr ""
+
+#: inc/options/controls/typography.php:59
+#: inc/options/controls/typography.php:61
+msgid "Normal 400 italic"
+msgstr ""
+
+#: tpl/page-title.php:42
+msgid "Not Found"
+msgstr ""
+
+#: inc/sidebar_manage.php:269
+msgid "Note:"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer.php:1365 inc/customizer.php:1558 inc/customizer.php:1617
+msgid "Number Of Related Posts"
+msgstr ""
+
+#: inc/customizer.php:1187 inc/customizer.php:2464
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer.php:2494
+msgid "One"
+msgstr ""
+
+#: inc/customizer.php:2045
+msgid "Only show when page title style default and page title align left"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops,"
+msgstr ""
+
+#: inc/customizer.php:973 inc/customizer.php:1865
+msgid "Original"
+msgstr ""
+
+#: inc/helpers.php:100
+msgid "Padding"
+msgstr ""
+
+#. %s is the page number.
+#: inc/helpers.php:389 inc/breadcrumb-trail/breadcrumb-trail.php:182
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer.php:2106 inc/customizer.php:2113
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1887
+msgid "Page Heading Text Color"
+msgstr ""
+
+#: inc/customizer.php:1786
+msgid "Page Title & Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1820
+msgid "Page Title Alignment"
+msgstr ""
+
+#: inc/customizer.php:1863
+msgid "Page Title Background Image Size"
+msgstr ""
+
+#: inc/customizer.php:2008
+msgid "Page Title Controls (px)"
+msgstr ""
+
+#: inc/customizer.php:1989
+msgid "Page Title Overlay Background Color"
+msgstr ""
+
+#: inc/customizer.php:1793 inc/customizer.php:1800
+msgid "Page Title Style"
+msgstr ""
+
+#: inc/customizer.php:1186 inc/customizer.php:2463
+msgid "Pager"
+msgstr ""
+
+#: inc/customizer.php:1188 inc/customizer.php:2465 inc/customizer.php:2548
+msgid "Pager & Numeric"
+msgstr ""
+
+#: content-page.php:15 content-single.php:25 content.php:68
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer.php:1184
+msgid "Pagination Style"
+msgstr ""
+
+#: comments.php:113
+msgid "Please Enter Your Comments "
+msgstr ""
+
+#: inc/sidebar_manage.php:98
+msgid "Please input sidebar name and try again."
+msgstr ""
+
+#: inc/sidebar_manage.php:269
+msgid "Please select the sidebar you would like to display."
+msgstr ""
+
+#: inc/customizer.php:681 inc/customizer.php:801
+msgid "Please turn on the less mode to use these functions"
+msgstr ""
+
+#: inc/customizer.php:1375
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer.php:1381
+msgid "PORTFOLIO ARCHIVE"
+msgstr ""
+
+#: inc/customizer.php:1480
+msgid "PORTFOLIO SINGLE"
+msgstr ""
+
+#: functions.php:153
+msgid "Portfolios Sidebar"
+msgstr ""
+
+#: comments.php:115
+msgid "Post Comment"
+msgstr ""
+
+#: inc/customizer.php:1064
+msgid "Post Grid Columns"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Post navigation"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Preload"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Prev Post"
+msgstr ""
+
+#: tpl/pagination.php:44
+msgid "Previous"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Primary color"
+msgstr ""
+
+#: functions.php:77
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "Published In"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Pulse Loaders"
+msgstr ""
+
+#: inc/customizer.php:1164
+msgid "Read More Text"
+msgstr ""
+
+#: tpl/related-post.php:55
+msgid "Related Post"
+msgstr ""
+
+#: inc/customizer.php:1323
+msgid "Related Posts Style"
+msgstr ""
+
+#: inc/sidebar_manage.php:194
+msgid "Remove"
+msgstr ""
+
+#: inc/sidebar_manage.php:206
+msgid "remove"
+msgstr ""
+
+#: inc/sidebar_manage.php:206
+msgid "Remove this sidebar"
+msgstr ""
+
+#: comments.php:44
+msgid "Repost"
+msgstr ""
+
+#: inc/customizer.php:1824
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:664
+msgid "SCHEME COLOR"
+msgstr ""
+
+#: inc/helpers.php:674
+msgid "Search for:"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: inc/breadcrumb-trail/breadcrumb-trail.php:180
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: tpl/page-title.php:40
+#, php-format
+msgid "Search results for &quot;%s&quot;"
+msgstr ""
+
+#: inc/helpers.php:675
+msgid "Search…"
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "Secondary color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:169
+msgid "Select Menu"
+msgstr ""
+
+#: inc/customizer.php:673
+msgid "Select the color that will be used for theme color."
+msgstr ""
+
+#: inc/options/controls/typography.php:64
+msgid "Semi-bold 600"
+msgstr ""
+
+#: inc/options/controls/typography.php:65
+msgid "Semi-bold 600 italic"
+msgstr ""
+
+#: inc/customizer.php:1568
+msgid "Services"
+msgstr ""
+
+#: inc/customizer.php:1575
+msgid "SERVICES ARCHIVE"
+msgstr ""
+
+#: inc/customizer.php:1692
+msgid "SERVICES SINGLE"
+msgstr ""
+
+#: tpl/social-share.php:5
+msgid "Share:"
+msgstr ""
+
+#: inc/customizer.php:1128
+msgid "Show Content Posts"
+msgstr ""
+
+#: inc/customizer.php:1285
+msgid "Show Entry Footer Content"
+msgstr ""
+
+#: inc/customizer.php:1266
+msgid "Show Post Navigator"
+msgstr ""
+
+#: inc/customizer.php:1146
+msgid "Show Read More"
+msgstr ""
+
+#: inc/customizer.php:1517
+msgid "Show Related Portfolios"
+msgstr ""
+
+#: inc/customizer.php:1303
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer.php:1729
+msgid "Show Related Services"
+msgstr ""
+
+#: inc/customizer.php:1499 inc/customizer.php:1711
+msgid "Show Single Navigator"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Show Topbar"
+msgstr ""
+
+#: inc/sidebar_manage.php:102
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: inc/sidebar_manage.php:181
+msgid "Sidebar Generator"
+msgstr ""
+
+#: inc/customizer.php:1023 inc/customizer.php:1229 inc/customizer.php:2646
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/customizer.php:2448
+msgid "Sidebar left"
+msgstr ""
+
+#: inc/sidebar_manage.php:176
+msgid "Sidebar Name:"
+msgstr ""
+
+#: inc/customizer.php:1020 inc/customizer.php:1226
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:1022 inc/customizer.php:1228 inc/customizer.php:2645
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/customizer.php:2447
+msgid "Sidebar right"
+msgstr ""
+
+#: inc/sidebar_manage.php:264
+msgid "Sidebars"
+msgstr ""
+
+#: inc/sidebar_manage.php:161
+msgid "Sidebars Manager"
+msgstr ""
+
+#: inc/customizer.php:2479
+msgid "Simple List"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "SITE INFORMATION"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Social"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Social Share"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid ""
+"Social share only visible on detail pages ( blog detail or shop detail )"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Socials"
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Spinner Loaders"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1167
+msgid "Split"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Square Loaders"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Standard Design"
+msgstr ""
+
+#: inc/customizer.php:849
+msgid "Sticky Header Background"
+msgstr ""
+
+#: inc/customizer.php:2394
+msgid "Sub Menu fonts"
+msgstr ""
+
+#: inc/customizer.php:938
+msgid "Sub nav link background color"
+msgstr ""
+
+#: inc/customizer.php:918
+msgid "Sub nav link color"
+msgstr ""
+
+#: inc/customizer.php:958
+msgid "Sub nav link hover & active color"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:107
+msgid "TF Header"
+msgstr ""
+
+#: inc/sidebar_manage.php:183
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#. Author of the theme
+msgid "Themesflat"
+msgstr ""
+
+#: inc/options/controls/typography.php:52
+msgid "Thin 100"
+msgstr ""
+
+#: inc/options/controls/typography.php:53
+msgid "Thin 100 italic"
+msgstr ""
+
+#: 404.php:19
+msgid "This Page Could Not Be Found!"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid ""
+"This section allow to change the layout and styles of footer widgets to "
+"match as you need"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid ""
+"This section have basic information of your site, just change it to match "
+"with you need."
+msgstr ""
+
+#: inc/sidebar_manage.php:168
+msgid "This will remove any widgets you have assigned to this sidebar."
+msgstr ""
+
+#: inc/customizer.php:2496
+msgid "Three"
+msgstr ""
+
+#: inc/customizer.php:2565
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:785
+msgid "Topbar Text Color"
+msgstr ""
+
+#: inc/customizer.php:2495
+msgid "Two"
+msgstr ""
+
+#: inc/customizer.php:1762
+msgid "Typography"
+msgstr ""
+
+#: inc/options/controls/typography.php:70
+msgid "Ultra-bold 900"
+msgstr ""
+
+#: inc/options/controls/typography.php:71
+msgid "Ultra-bold 900 italic"
+msgstr ""
+
+#: inc/customizer.php:379
+msgid "Upload Your Logo "
+msgstr ""
+
+#: inc/customizer.php:402
+msgid "Upload Your Logo On Mobile"
+msgstr ""
+
+#: inc/customizer.php:1842
+msgid "Upload Your Page Title Background Image"
+msgstr ""
+
+#: inc/options/controls/typography.php:80
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/template-tags.php:48
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail/breadcrumb-trail.php:186
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: comments.php:132
+msgid "Write a message :"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Written by"
+msgstr ""
+
+#: inc/breadcrumb-trail/breadcrumb-trail.php:762
+#: inc/breadcrumb-trail/breadcrumb-trail.php:791
+#: inc/breadcrumb-trail/breadcrumb-trail.php:826
+#: inc/breadcrumb-trail/breadcrumb-trail.php:853
+#: inc/breadcrumb-trail/breadcrumb-trail.php:1040
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: tpl/page-title.php:52
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/elementor-options/elementor-options.php:193
+#: inc/elementor-options/elementor-options.php:217
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:1777
+msgid "You can modify the font family, size, color, ... for global content."
+msgstr ""
+
+#: inc/customizer.php:2202
+msgid "You can modify the font options for your headings. h1, h2, h3, h4, ..."
+msgstr ""
+
+#: inc/sidebar_manage.php:269
+msgid "You must first create the sidebar under"
+msgstr ""
+
+#: comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""

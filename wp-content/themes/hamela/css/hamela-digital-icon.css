@@ -1,0 +1,768 @@
+@font-face {
+  font-family: 'hamela-digital-icon';
+  src:  url('../fonts/hamela-digital-icon.eot?1bwrlp');
+  src:  url('../fonts/hamela-digital-icon.eot?1bwrlp#iefix') format('embedded-opentype'),
+    url('../fonts/hamela-digital-icon.ttf?1bwrlp') format('truetype'),
+    url('../fonts/hamela-digital-icon.woff?1bwrlp') format('woff'),
+    url('../fonts/hamela-digital-icon.svg?1bwrlp#hamela-digital-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="hamela-digital-icon-"], [class*=" hamela-digital-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hamela-digital-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hamela-digital-icon-satisfaction:before {
+  content: "\e900";
+}
+.hamela-digital-icon-idea:before {
+  content: "\e901";
+}
+.hamela-digital-icon-development:before {
+  content: "\e902";
+}
+.hamela-digital-icon-briefcase:before {
+  content: "\e903";
+}
+.hamela-digital-icon-planning:before {
+  content: "\e904";
+}
+.hamela-digital-icon-buildings:before {
+  content: "\e905";
+}
+.hamela-digital-icon-phone:before {
+  content: "\e906";
+}
+.hamela-digital-icon-headhunting:before {
+  content: "\e907";
+}
+.hamela-digital-icon-analysis:before {
+  content: "\e908";
+}
+.hamela-digital-icon-global:before {
+  content: "\e909";
+}
+.hamela-digital-icon-business:before {
+  content: "\e90a";
+}
+.hamela-digital-icon-background-check:before {
+  content: "\e90b";
+}
+.hamela-digital-icon-laptop:before {
+  content: "\e90c";
+}
+.hamela-digital-icon-visualization:before {
+  content: "\e90d";
+}
+.hamela-digital-icon-target:before {
+  content: "\e90e";
+}
+.hamela-digital-icon-presentation:before {
+  content: "\e90f";
+}
+.hamela-digital-icon-architect:before {
+  content: "\e910";
+}
+.hamela-digital-icon-data:before {
+  content: "\e911";
+}
+.hamela-digital-icon-creative:before {
+  content: "\e912";
+}
+.hamela-digital-icon-mobile-analytics:before {
+  content: "\e913";
+}
+.hamela-digital-icon-architect-1:before {
+  content: "\e914";
+}
+.hamela-digital-icon-mouse:before {
+  content: "\e915";
+}
+.hamela-digital-icon-moon:before {
+  content: "\e916";
+}
+.hamela-digital-icon-diamond:before {
+  content: "\e917";
+}
+.hamela-digital-icon-star:before {
+  content: "\e918";
+}
+.hamela-digital-icon-monitoring:before {
+  content: "\e919";
+}
+.hamela-digital-icon-development1:before {
+  content: "\e91a";
+}
+.hamela-digital-icon-research:before {
+  content: "\e91b";
+}
+.hamela-digital-icon-business1:before {
+  content: "\f100";
+}
+.hamela-digital-icon-smartphone-call:before {
+  content: "\f101";
+}
+.hamela-digital-icon-three:before {
+  content: "\f102";
+}
+.hamela-digital-icon-symbol:before {
+  content: "\f103";
+}
+.hamela-digital-icon-line:before {
+  content: "\f104";
+}
+.hamela-digital-icon-sign:before {
+  content: "\f105";
+}
+.hamela-digital-icon-delete:before {
+  content: "\f106";
+}
+.hamela-digital-icon-check-symbol:before {
+  content: "\f107";
+}
+.hamela-digital-icon-delete-cross:before {
+  content: "\f109";
+}
+.hamela-digital-icon-location:before {
+  content: "\f10a";
+}
+.hamela-digital-icon-clipboard-with-a-list:before {
+  content: "\f10b";
+}
+.hamela-digital-icon-shelter:before {
+  content: "\f10c";
+}
+.hamela-digital-icon-technology:before {
+  content: "\f10d";
+}
+.hamela-digital-icon-fax-with-phone:before {
+  content: "\f10e";
+}
+.hamela-digital-icon-photo:before {
+  content: "\f10f";
+}
+.hamela-digital-icon-people:before {
+  content: "\f110";
+}
+.hamela-digital-icon-support:before {
+  content: "\f111";
+}
+.hamela-digital-icon-shape:before {
+  content: "\f112";
+}
+.hamela-digital-icon-cogwheel:before {
+  content: "\f113";
+}
+.hamela-digital-icon-arrows:before {
+  content: "\f114";
+}
+.hamela-digital-icon-home:before {
+  content: "\f115";
+}
+.hamela-digital-icon-cross:before {
+  content: "\f116";
+}
+.hamela-digital-icon-line-1:before {
+  content: "\f117";
+}
+.hamela-digital-icon-right-arrow:before {
+  content: "\f118";
+}
+.hamela-digital-icon-arrows-1:before {
+  content: "\f119";
+}
+.hamela-digital-icon-letter:before {
+  content: "\f11b";
+}
+.hamela-digital-icon-search:before {
+  content: "\f11c";
+}
+.hamela-digital-icon-stats:before {
+  content: "\f11e";
+}
+.hamela-digital-icon-truck:before {
+  content: "\f125";
+}
+.hamela-digital-icon-headphones:before {
+  content: "\f126";
+}
+.hamela-digital-icon-garbage:before {
+  content: "\f127";
+}
+.hamela-digital-icon-heart:before {
+  content: "\f128";
+}
+.hamela-digital-icon-settings:before {
+  content: "\f129";
+}
+.hamela-digital-icon-link:before {
+  content: "\f12a";
+}
+.hamela-digital-icon-printer:before {
+  content: "\f12b";
+}
+.hamela-digital-icon-phone-call:before {
+  content: "\f12c";
+}
+.hamela-digital-icon-shopping-bag:before {
+  content: "\f12d";
+}
+.hamela-digital-icon-envelope:before {
+  content: "\f12e";
+}
+.hamela-digital-icon-bars:before {
+  content: "\f12f";
+}
+.hamela-digital-icon-link-1:before {
+  content: "\f132";
+}
+.hamela-digital-icon-check-1:before {
+  content: "\f133";
+}
+.hamela-digital-icon-add:before {
+  content: "\f134";
+}
+.hamela-digital-icon-menu:before {
+  content: "\f135";
+}
+.hamela-digital-icon-anchor:before {
+  content: "\f136";
+}
+.hamela-digital-icon-menu-1:before {
+  content: "\f137";
+}
+.hamela-digital-icon-arrows-6:before {
+  content: "\f138";
+}
+.hamela-digital-icon-success:before {
+  content: "\f139";
+}
+.hamela-digital-icon-add-1:before {
+  content: "\f13a";
+}
+.hamela-digital-icon-interface:before {
+  content: "\f13b";
+}
+.hamela-digital-icon-up-arrow:before {
+  content: "\f13c";
+}
+.hamela-digital-icon-arrows-7:before {
+  content: "\f13d";
+}
+.hamela-digital-icon-arrows-8:before {
+  content: "\f13e";
+}
+.hamela-digital-icon-arrows-9:before {
+  content: "\f13f";
+}
+.hamela-digital-icon-user:before {
+  content: "\f140";
+}
+.hamela-digital-icon-bar-chart:before {
+  content: "\f141";
+}
+.hamela-digital-icon-speech-bubble:before {
+  content: "\f142";
+}
+.hamela-digital-icon-placeholder:before {
+  content: "\f143";
+}
+.hamela-digital-icon-technology-1:before {
+  content: "\f144";
+}
+.hamela-digital-icon-technology-2:before {
+  content: "\f145";
+}
+.hamela-digital-icon-link-2:before {
+  content: "\f146";
+}
+.hamela-digital-icon-trophy:before {
+  content: "\f147";
+}
+.hamela-digital-icon-layers:before {
+  content: "\f148";
+}
+.hamela-digital-icon-home-1:before {
+  content: "\f149";
+}
+.hamela-digital-icon-message:before {
+  content: "\f14a";
+}
+.hamela-digital-icon-maps-and-flags:before {
+  content: "\f14b";
+}
+.hamela-digital-icon-delete-1:before {
+  content: "\f14c";
+}
+.hamela-digital-icon-cancel:before {
+  content: "\f14d";
+}
+.hamela-digital-icon-menu-2:before {
+  content: "\f14e";
+}
+.hamela-digital-icon-briefcase1:before {
+  content: "\f14f";
+}
+.hamela-digital-icon-agenda:before {
+  content: "\f150";
+}
+.hamela-digital-icon-arrows-10:before {
+  content: "\f151";
+}
+.hamela-digital-icon-menu-3:before {
+  content: "\f152";
+}
+.hamela-digital-icon-photo-1:before {
+  content: "\f153";
+}
+.hamela-digital-icon-clipboard:before {
+  content: "\f154";
+}
+.hamela-digital-icon-heart-1:before {
+  content: "\f155";
+}
+.hamela-digital-icon-logout:before {
+  content: "\f156";
+}
+.hamela-digital-icon-location-pin:before {
+  content: "\f157";
+}
+.hamela-digital-icon-quality:before {
+  content: "\f158";
+}
+.hamela-digital-icon-quote:before {
+  content: "\f159";
+}
+.hamela-digital-icon-right-quote:before {
+  content: "\f15a";
+}
+.hamela-digital-icon-hand-shake:before {
+  content: "\f15b";
+}
+.hamela-digital-icon-chat:before {
+  content: "\f15c";
+}
+.hamela-digital-icon-next:before {
+  content: "\f15d";
+}
+.hamela-digital-icon-back:before {
+  content: "\f15e";
+}
+.hamela-digital-icon-next-1:before {
+  content: "\f15f";
+}
+.hamela-digital-icon-arrow:before {
+  content: "\f160";
+}
+.hamela-digital-icon-telephone:before {
+  content: "\f161";
+}
+.hamela-digital-icon-smartphone:before {
+  content: "\f162";
+}
+.hamela-digital-icon-placeholder-1:before {
+  content: "\f163";
+}
+.hamela-digital-icon-placeholder-2:before {
+  content: "\f164";
+}
+.hamela-digital-icon-menu-4:before {
+  content: "\f165";
+}
+.hamela-digital-icon-menu-5:before {
+  content: "\f166";
+}
+.hamela-digital-icon-menu-6:before {
+  content: "\f167";
+}
+.hamela-digital-icon-letter-x:before {
+  content: "\f168";
+}
+.hamela-digital-icon-magnifying-glass:before {
+  content: "\f169";
+}
+.hamela-digital-icon-link-3:before {
+  content: "\f16a";
+}
+.hamela-digital-icon-chat-comment-oval-speech-bubble-with-text-lines:before {
+  content: "\f16b";
+}
+.hamela-digital-icon-expand:before {
+  content: "\f16c";
+}
+.hamela-digital-icon-share:before {
+  content: "\f16d";
+}
+.hamela-digital-icon-worldwide:before {
+  content: "\f16e";
+}
+.hamela-digital-icon-magnifying-glass-1:before {
+  content: "\f16f";
+}
+.hamela-digital-icon-left-arrow:before {
+  content: "\f170";
+}
+.hamela-digital-icon-left:before {
+  content: "\f171";
+}
+.hamela-digital-icon-left-arrow-1:before {
+  content: "\f172";
+}
+.hamela-digital-icon-right:before {
+  content: "\f173";
+}
+.hamela-digital-icon-right-1:before {
+  content: "\f174";
+}
+.hamela-digital-icon-right-arrow-1:before {
+  content: "\f175";
+}
+.hamela-digital-icon-left-quote:before {
+  content: "\f176";
+}
+.hamela-digital-icon-left-quote-1:before {
+  content: "\f177";
+}
+.hamela-digital-icon-play-button:before {
+  content: "\f178";
+}
+.hamela-digital-icon-play-button-1:before {
+  content: "\f179";
+}
+.hamela-digital-icon-link-4:before {
+  content: "\f17a";
+}
+.hamela-digital-icon-zoom-in:before {
+  content: "\f17b";
+}
+.hamela-digital-icon-zoom-out:before {
+  content: "\f17c";
+}
+.hamela-digital-icon-postcard:before {
+  content: "\f17d";
+}
+.hamela-digital-icon-right-2:before {
+  content: "\f17e";
+}
+.hamela-digital-icon-left-1:before {
+  content: "\f17f";
+}
+.hamela-digital-icon-magnifying-glass-2:before {
+  content: "\f180";
+}
+.hamela-digital-icon-shopping-cart:before {
+  content: "\f181";
+}
+.hamela-digital-icon-left-arrow-2:before {
+  content: "\f182";
+}
+.hamela-digital-icon-send:before {
+  content: "\f183";
+}
+.hamela-digital-icon-case:before {
+  content: "\f184";
+}
+.hamela-digital-icon-calendar:before {
+  content: "\f185";
+}
+.hamela-digital-icon-place:before {
+  content: "\f186";
+}
+.hamela-digital-icon-settings-1:before {
+  content: "\f187";
+}
+.hamela-digital-icon-worldwide-1:before {
+  content: "\f188";
+}
+.hamela-digital-icon-139-tick:before {
+  content: "\f189";
+}
+.hamela-digital-icon-tick-1:before {
+  content: "\f18a";
+}
+.hamela-digital-icon-shopping-bag-1:before {
+  content: "\f18b";
+}
+.hamela-digital-icon-confirmation:before {
+  content: "\f18c";
+}
+.hamela-digital-icon-search-1:before {
+  content: "\f18d";
+}
+.hamela-digital-icon-lock:before {
+  content: "\f18e";
+}
+.hamela-digital-icon-iphone:before {
+  content: "\f18f";
+}
+.hamela-digital-icon-mobile-phone:before {
+  content: "\f190";
+}
+.hamela-digital-icon-down-arrow:before {
+  content: "\f191";
+}
+.hamela-digital-icon-down-arrow-1:before {
+  content: "\f192";
+}
+.hamela-digital-icon-down-chevron:before {
+  content: "\f193";
+}
+.hamela-digital-icon-play-button-2:before {
+  content: "\f194";
+}
+.hamela-digital-icon-play-1:before {
+  content: "\f195";
+}
+.hamela-digital-icon-menu-7:before {
+  content: "\f196";
+}
+.hamela-digital-icon-smartphone-1:before {
+  content: "\f197";
+}
+.hamela-digital-icon-email:before {
+  content: "\f198";
+}
+.hamela-digital-icon-email-1:before {
+  content: "\f199";
+}
+.hamela-digital-icon-fast:before {
+  content: "\f19a";
+}
+.hamela-digital-icon-search-2:before {
+  content: "\f19b";
+}
+.hamela-digital-icon-shopping-bag-2:before {
+  content: "\f19c";
+}
+.hamela-digital-icon-smartphone-2:before {
+  content: "\f19d";
+}
+.hamela-digital-icon-smartphone-3:before {
+  content: "\f19e";
+}
+.hamela-digital-icon-placeholder-3:before {
+  content: "\f19f";
+}
+.hamela-digital-icon-envelope-1:before {
+  content: "\f1a0";
+}
+.hamela-digital-icon-responsive:before {
+  content: "\f1a1";
+}
+.hamela-digital-icon-loupe:before {
+  content: "\f1a2";
+}
+.hamela-digital-icon-loupe-1:before {
+  content: "\f1a3";
+}
+.hamela-digital-icon-graphic-designer:before {
+  content: "\f1a4";
+}
+.hamela-digital-icon-computer:before {
+  content: "\f1a5";
+}
+.hamela-digital-icon-digital-marketing:before {
+  content: "\f1a6";
+}
+.hamela-digital-icon-marketing-online:before {
+  content: "\f1a7";
+}
+.hamela-digital-icon-development2:before {
+  content: "\f1a8";
+}
+.hamela-digital-icon-app-development:before {
+  content: "\f1a9";
+}
+.hamela-digital-icon-ui:before {
+  content: "\f1aa";
+}
+.hamela-digital-icon-ux:before {
+  content: "\f1ab";
+}
+.hamela-digital-icon-pin:before {
+  content: "\f1ac";
+}
+.hamela-digital-icon-call-1:before {
+  content: "\f1b1";
+}
+.hamela-digital-icon-vector:before {
+  content: "\f1b2";
+}
+.hamela-digital-icon-3d:before {
+  content: "\f1b3";
+}
+.hamela-digital-icon-creativity:before {
+  content: "\f1b4";
+}
+.hamela-digital-icon-digital:before {
+  content: "\f1b5";
+}
+.hamela-digital-icon-viral-marketing:before {
+  content: "\f1b6";
+}
+.hamela-digital-icon-instant-camera:before {
+  content: "\f1b7";
+}
+.hamela-digital-icon-monitor:before {
+  content: "\f1b8";
+}
+.hamela-digital-icon-design-tools:before {
+  content: "\f1b9";
+}
+.hamela-digital-icon-idea1:before {
+  content: "\f1ba";
+}
+.hamela-digital-icon-fast-1:before {
+  content: "\f1bb";
+}
+.hamela-digital-icon-clock:before {
+  content: "\f1bc";
+}
+.hamela-digital-icon-quick-response:before {
+  content: "\f1bd";
+}
+.hamela-digital-icon-fast-2:before {
+  content: "\f1be";
+}
+.hamela-digital-icon-user-1:before {
+  content: "\f1bf";
+}
+.hamela-digital-icon-user-2:before {
+  content: "\f1c0";
+}
+.hamela-digital-icon-speech-bubble-1:before {
+  content: "\f1c1";
+}
+.hamela-digital-icon-chat-1:before {
+  content: "\f1c3";
+}
+.hamela-digital-icon-comments:before {
+  content: "\f1c4";
+}
+.hamela-digital-icon-comment:before {
+  content: "\f1c5";
+}
+.hamela-digital-icon-list:before {
+  content: "\f1cd";
+}
+.hamela-digital-icon-menu-11:before {
+  content: "\f1ce";
+}
+.hamela-digital-icon-list-1:before {
+  content: "\f1cf";
+}
+.hamela-digital-icon-email-3:before {
+  content: "\f1d0";
+}
+.hamela-digital-icon-letter-1:before {
+  content: "\f1d1";
+}
+.hamela-digital-icon-email-4:before {
+  content: "\f1d2";
+}
+.hamela-digital-icon-contact-book:before {
+  content: "\f1d3";
+}
+.hamela-digital-icon-collaboration:before {
+  content: "\f1d4";
+}
+.hamela-digital-icon-network:before {
+  content: "\f1d5";
+}
+.hamela-digital-icon-enterprise:before {
+  content: "\f1d6";
+}
+.hamela-digital-icon-group:before {
+  content: "\f1d7";
+}
+.hamela-digital-icon-team:before {
+  content: "\f1d8";
+}
+.hamela-digital-icon-work-team:before {
+  content: "\f1d9";
+}
+.hamela-digital-icon-globe:before {
+  content: "\f1da";
+}
+.hamela-digital-icon-credit-card:before {
+  content: "\f1db";
+}
+.hamela-digital-icon-online-banking:before {
+  content: "\f1dc";
+}
+.hamela-digital-icon-desktop:before {
+  content: "\f1dd";
+}
+.hamela-digital-icon-desktop-1:before {
+  content: "\f1de";
+}
+.hamela-digital-icon-remove-1:before {
+  content: "\f1df";
+}
+.hamela-digital-icon-minus:before {
+  content: "\f1e0";
+}
+.hamela-digital-icon-add-2:before {
+  content: "\f1e1";
+}
+.hamela-digital-icon-plus:before {
+  content: "\f1e2";
+}
+.hamela-digital-icon-minus-1:before {
+  content: "\f1e3";
+}
+.hamela-digital-icon-magic-wand:before {
+  content: "\f1e4";
+}
+.hamela-digital-icon-vector-1:before {
+  content: "\f1e5";
+}
+.hamela-digital-icon-sketch:before {
+  content: "\f1e6";
+}
+.hamela-digital-icon-vector-2:before {
+  content: "\f1e7";
+}
+.hamela-digital-icon-vector-3:before {
+  content: "\f1e8";
+}
+.hamela-digital-icon-computer-graphic:before {
+  content: "\f1e9";
+}
+.hamela-digital-icon-idea-1:before {
+  content: "\f1ea";
+}
+.hamela-digital-icon-vector-4:before {
+  content: "\f1eb";
+}
+.hamela-digital-icon-hosting:before {
+  content: "\f1ec";
+}
+.hamela-digital-icon-quality-1:before {
+  content: "\f1ed";
+}
+.hamela-digital-icon-web-design:before {
+  content: "\f1ee";
+}
+.hamela-digital-icon-cms:before {
+  content: "\f1ef";
+}
+.hamela-digital-icon-3d-design:before {
+  content: "\f1f0";
+}
+.hamela-digital-icon-3d-1:before {
+  content: "\f1f1";
+}

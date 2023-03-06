@@ -1,0 +1,477 @@
+@font-face {
+  font-family: 'hamela';
+  src:  url('../fonts/hamela.eot?1ravyg');
+  src:  url('../fonts/hamela.eot?1ravyg#iefix') format('embedded-opentype'),
+    url('../fonts/hamela.ttf?1ravyg') format('truetype'),
+    url('../fonts/hamela.woff?1ravyg') format('woff'),
+    url('../fonts/hamela.svg?1ravyg#hamela') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="hamela-icon-"], [class*=" hamela-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hamela' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hamela-icon-adobe-illustrator:before {
+  content: "\e900";
+}
+.hamela-icon-adobe-lightroom:before {
+  content: "\e901";
+}
+.hamela-icon-adobe-photoshop:before {
+  content: "\e902";
+}
+.hamela-icon-browser:before {
+  content: "\e903";
+}
+.hamela-icon-brush:before {
+  content: "\e904";
+}
+.hamela-icon-camera:before {
+  content: "\e905";
+}
+.hamela-icon-coffee-mug:before {
+  content: "\e906";
+}
+.hamela-icon-color-picker:before {
+  content: "\e907";
+}
+.hamela-icon-computer:before {
+  content: "\e908";
+}
+.hamela-icon-crop:before {
+  content: "\e909";
+}
+.hamela-icon-cube:before {
+  content: "\e90a";
+}
+.hamela-icon-desk-lamp:before {
+  content: "\e90b";
+}
+.hamela-icon-discussion:before {
+  content: "\e90c";
+}
+.hamela-icon-fill:before {
+  content: "\e90d";
+}
+.hamela-icon-flashdisk:before {
+  content: "\e90e";
+}
+.hamela-icon-flip:before {
+  content: "\e90f";
+}
+.hamela-icon-font:before {
+  content: "\e910";
+}
+.hamela-icon-graphic-designer:before {
+  content: "\e911";
+}
+.hamela-icon-graphic-tablet-2:before {
+  content: "\e912";
+}
+.hamela-icon-graphic-tablet:before {
+  content: "\e913";
+}
+.hamela-icon-graphic-tools:before {
+  content: "\e914";
+}
+.hamela-icon-idea:before {
+  content: "\e915";
+}
+.hamela-icon-image:before {
+  content: "\e916";
+}
+.hamela-icon-layers:before {
+  content: "\e917";
+}
+.hamela-icon-loupe:before {
+  content: "\e918";
+}
+.hamela-icon-magic-wand:before {
+  content: "\e919";
+}
+.hamela-icon-microphone:before {
+  content: "\e91a";
+}
+.hamela-icon-origami:before {
+  content: "\e91b";
+}
+.hamela-icon-paint-brush:before {
+  content: "\e91c";
+}
+.hamela-icon-paint-pallete:before {
+  content: "\e91d";
+}
+.hamela-icon-paint:before {
+  content: "\e91e";
+}
+.hamela-icon-pantone:before {
+  content: "\e91f";
+}
+.hamela-icon-picture:before {
+  content: "\e920";
+}
+.hamela-icon-push-pin:before {
+  content: "\e921";
+}
+.hamela-icon-ruler:before {
+  content: "\e922";
+}
+.hamela-icon-settings:before {
+  content: "\e923";
+}
+.hamela-icon-sketch:before {
+  content: "\e924";
+}
+.hamela-icon-smartphone:before {
+  content: "\e925";
+}
+.hamela-icon-vector:before {
+  content: "\e926";
+}
+.hamela-icon-wireless-mouse:before {
+  content: "\e927";
+}
+.hamela-icon-Analytics:before {
+  content: "\e928";
+}
+.hamela-icon-Blogging-Service:before {
+  content: "\e929";
+}
+.hamela-icon-Bookmarking-Services:before {
+  content: "\e92a";
+}
+.hamela-icon-Case-Study:before {
+  content: "\e92b";
+}
+.hamela-icon-Clean-Code:before {
+  content: "\e92c";
+}
+.hamela-icon-Closed-Access:before {
+  content: "\e92d";
+}
+.hamela-icon-Code-Optimization:before {
+  content: "\e92e";
+}
+.hamela-icon-Company-Network:before {
+  content: "\e92f";
+}
+.hamela-icon-Confidentiality:before {
+  content: "\e930";
+}
+.hamela-icon-Consulting-Services:before {
+  content: "\e931";
+}
+.hamela-icon-Content-Management:before {
+  content: "\e932";
+}
+.hamela-icon-Content-Planning:before {
+  content: "\e933";
+}
+.hamela-icon-Content-Production:before {
+  content: "\e934";
+}
+.hamela-icon-Data-Security:before {
+  content: "\e935";
+}
+.hamela-icon-Database-Management:before {
+  content: "\e936";
+}
+.hamela-icon-Digital-Marketing:before {
+  content: "\e937";
+}
+.hamela-icon-Event-Management:before {
+  content: "\e938";
+}
+.hamela-icon-GPS-Service:before {
+  content: "\e939";
+}
+.hamela-icon-Intelligent-Search:before {
+  content: "\e93a";
+}
+.hamela-icon-Internet-Ads:before {
+  content: "\e93b";
+}
+.hamela-icon-Like-Marketing:before {
+  content: "\e93c";
+}
+.hamela-icon-Link-Optimization:before {
+  content: "\e93d";
+}
+.hamela-icon-Link-Sales:before {
+  content: "\e93e";
+}
+.hamela-icon-Location-Web-Advertising:before {
+  content: "\e93f";
+}
+.hamela-icon-Mobile-Applications:before {
+  content: "\e940";
+}
+.hamela-icon-Networks:before {
+  content: "\e941";
+}
+.hamela-icon-Organic-Search:before {
+  content: "\e942";
+}
+.hamela-icon-Pay-Per-Click:before {
+  content: "\e943";
+}
+.hamela-icon-Portfolio-Management:before {
+  content: "\e944";
+}
+.hamela-icon-Press-Releases:before {
+  content: "\e945";
+}
+.hamela-icon-Quality-Assurance:before {
+  content: "\e946";
+}
+.hamela-icon-Quality-Control:before {
+  content: "\e947";
+}
+.hamela-icon-QC-Passed:before {
+  content: "\e948";
+}
+.hamela-icon-Reputation-Management:before {
+  content: "\e949";
+}
+.hamela-icon-Search-Engine-Optimizati:before {
+  content: "\e94a";
+}
+.hamela-icon-Seo-Packages:before {
+  content: "\e94b";
+}
+.hamela-icon-Seo-Structure:before {
+  content: "\e94c";
+}
+.hamela-icon-SEO:before {
+  content: "\e94d";
+}
+.hamela-icon-Strategy-Connsultation:before {
+  content: "\e94e";
+}
+.hamela-icon-Technical-Support:before {
+  content: "\e94f";
+}
+.hamela-icon-Time-Optimization:before {
+  content: "\e950";
+}
+.hamela-icon-Tracking-Services:before {
+  content: "\e951";
+}
+.hamela-icon-Video--Animation:before {
+  content: "\e952";
+}
+.hamela-icon-Video-Communication:before {
+  content: "\e953";
+}
+.hamela-icon-Web-Award:before {
+  content: "\e954";
+}
+.hamela-icon-Web-Optimization:before {
+  content: "\e955";
+}
+.hamela-icon-Web-Support:before {
+  content: "\e956";
+}
+.hamela-icon-Web-Visibility:before {
+  content: "\e957";
+}
+.hamela-icon-Website-Design:before {
+  content: "\e958";
+}
+.hamela-icon-Website-Promotion:before {
+  content: "\e959";
+}
+.hamela-icon-email3:before {
+  content: "\eb80";
+}
+.hamela-icon-email4:before {
+  content: "\eb81";
+}
+.hamela-icon-email5:before {
+  content: "\eb82";
+}
+.hamela-icon-statistics1:before {
+  content: "\eb83";
+}
+.hamela-icon-online-shop2:before {
+  content: "\eb84";
+}
+.hamela-icon-online-pay1:before {
+  content: "\eb85";
+}
+.hamela-icon-banner1:before {
+  content: "\eb86";
+}
+.hamela-icon-advertising1:before {
+  content: "\eb87";
+}
+.hamela-icon-blog2:before {
+  content: "\eb88";
+}
+.hamela-icon-chat1:before {
+  content: "\eb89";
+}
+.hamela-icon-browser3:before {
+  content: "\eb8a";
+}
+.hamela-icon-analysis1:before {
+  content: "\eb8b";
+}
+.hamela-icon-value-marketing1:before {
+  content: "\eb8c";
+}
+.hamela-icon-server1:before {
+  content: "\eb8d";
+}
+.hamela-icon-planning1:before {
+  content: "\eb8e";
+}
+.hamela-icon-Cloud1:before {
+  content: "\eb8f";
+}
+.hamela-icon-Digital-Marketing3:before {
+  content: "\eb90";
+}
+.hamela-icon-startup1:before {
+  content: "\eb91";
+}
+.hamela-icon-blog3:before {
+  content: "\eb92";
+}
+.hamela-icon-pay1:before {
+  content: "\eb93";
+}
+.hamela-icon-online-shop3:before {
+  content: "\eb94";
+}
+.hamela-icon-target1:before {
+  content: "\eb95";
+}
+.hamela-icon-strategy1:before {
+  content: "\eb96";
+}
+.hamela-icon-share1:before {
+  content: "\eb97";
+}
+.hamela-icon-like1:before {
+  content: "\eb98";
+}
+.hamela-icon-setting1:before {
+  content: "\eb99";
+}
+.hamela-icon-browser4:before {
+  content: "\eb9a";
+}
+.hamela-icon-marketing1:before {
+  content: "\eb9b";
+}
+.hamela-icon-online-marketing1:before {
+  content: "\eb9c";
+}
+.hamela-icon-pay-per-click1:before {
+  content: "\eb9d";
+}
+.hamela-icon-analysis2:before {
+  content: "\eb9e";
+}
+.hamela-icon-balance:before {
+  content: "\eb9f";
+}
+.hamela-icon-brush1:before {
+  content: "\eba0";
+}
+.hamela-icon-camera1:before {
+  content: "\eba1";
+}
+.hamela-icon-crop-tool:before {
+  content: "\eba2";
+}
+.hamela-icon-cube-box:before {
+  content: "\eba3";
+}
+.hamela-icon-designing:before {
+  content: "\eba4";
+}
+.hamela-icon-desk-lamp1:before {
+  content: "\eba5";
+}
+.hamela-icon-discussion1:before {
+  content: "\eba6";
+}
+.hamela-icon-font-text:before {
+  content: "\eba7";
+}
+.hamela-icon-graphics-tablet:before {
+  content: "\eba8";
+}
+.hamela-icon-idea-bulb:before {
+  content: "\eba9";
+}
+.hamela-icon-illustration:before {
+  content: "\ebaa";
+}
+.hamela-icon-layout:before {
+  content: "\ebab";
+}
+.hamela-icon-microphone1:before {
+  content: "\ebac";
+}
+.hamela-icon-mouse:before {
+  content: "\ebad";
+}
+.hamela-icon-origami1:before {
+  content: "\ebae";
+}
+.hamela-icon-paint-brush1:before {
+  content: "\ebaf";
+}
+.hamela-icon-paint-bucket:before {
+  content: "\ebb0";
+}
+.hamela-icon-paint-pallete1:before {
+  content: "\ebb1";
+}
+.hamela-icon-pantone-palette:before {
+  content: "\ebb2";
+}
+.hamela-icon-pencil-bubble-speech:before {
+  content: "\ebb3";
+}
+.hamela-icon-picker-paint:before {
+  content: "\ebb4";
+}
+.hamela-icon-picture1:before {
+  content: "\ebb5";
+}
+.hamela-icon-ruler-creative:before {
+  content: "\ebb6";
+}
+.hamela-icon-ruler-pencil:before {
+  content: "\ebb7";
+}
+.hamela-icon-settings1:before {
+  content: "\ebb8";
+}
+.hamela-icon-smartphone-coloring:before {
+  content: "\ebb9";
+}
+.hamela-icon-usb-disk:before {
+  content: "\ebba";
+}
+.hamela-icon-vision:before {
+  content: "\ebbb";
+}

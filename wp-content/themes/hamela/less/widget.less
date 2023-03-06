@@ -1,0 +1,586 @@
+// AUTHOR
+.sidebar {
+    .wp-block-search__label {
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 8px;
+    }
+
+    .widget {
+        margin-bottom: 50px;
+
+    }
+
+
+    //MAP
+    .wp-block-webfactory-map {
+        iframe {
+            display: block;
+        }
+    }
+}
+
+// SEARCH
+.widget_search {
+    background: #fff;
+    padding: 43px 30px 49px;
+
+    h4 {
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+
+    .wp-block-search {
+        .wp-block-search__inside-wrapper {
+            position: relative;
+            .wp-block-search__input {
+                font-family:  @body_font_family;
+                font-size: 14px;
+                font-weight: 400;
+                padding: 18px 30px;
+                line-height: 1.3;
+                border-radius: 8px;
+                width: 100%;
+                background: #f3f3f4;
+                border: 1px solid @secondary_color_blur;
+                outline: none;
+                height: auto;
+            }
+
+            .wp-block-search__button {
+                font-size: 0;
+                border: 0;
+                width: 58px;
+                height: 54px;
+                position: absolute;
+                right: 0;
+                top: 0;
+                cursor: pointer;
+                background: transparent;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                outline: 0;
+
+                &:focus {
+                    border: 0 !important;
+                }
+
+                &:hover {
+                    &:after {
+                        color: @primary_color;
+                    }
+                }
+
+                &:after {
+                    display: inline-block;
+                    transition: all .3s;
+                    color: #ffa800;
+                    font-size: 20px;
+                    content: "\f002";
+                    font-weight: 900;
+                    -moz-osx-font-smoothing: grayscale;
+                    -webkit-font-smoothing: antialiased;
+                    display: inline-block;
+                    font-style: normal;
+                    font-variant: normal;
+                    text-rendering: auto;
+                    line-height: 1;
+                    font-family: "Font Awesome 5 Free";
+
+                }
+            }
+        }
+    }
+
+    .search-form {
+        position: relative;
+
+        label {
+            width: 100%;
+
+            input {
+                font-family: @body_font_family;
+                font-size: 14px;
+                font-weight: 400;
+                padding: 15px 30px;
+                border-radius: 8px;
+                width: 100%;
+                background: #f3f3f4;
+                border-color: @secondary_color_blur;
+            }
+        }
+
+        button {
+            position: absolute;
+            top: 16px;
+            right: 20px;
+            border: none;
+            background: transparent;
+
+            i {
+                color: #e74901;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+
+.widget_pages,
+.widget_categories {
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        ul.children {
+            width: 100%;
+            padding-left: 0px;
+        }
+
+        li {
+            position: relative;
+            width: 100%;
+            flex-wrap: wrap;
+            display: flex;
+            padding: 5px 0;
+            a {
+                font-size: 14px;
+                border-radius: 10px;
+                display: block;
+                text-decoration: none;
+                margin-right: 5px;
+            }
+
+            &:last-child {
+                a {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+// CATEGORY
+.tfl-widget-portfolio-cats,
+.tfl_widget_categories {
+    margin-top: 50px;
+    background: #fff;
+    padding: 45px 28px 39px 28px;
+    margin-bottom: 70px;
+
+    .tfl-categories {
+        margin-top: -12px;
+    }
+
+    h4 {
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+
+    ul {
+        margin: 0;
+        list-style: none;
+        padding: 0;
+
+        li {
+            position: relative;
+            padding-left: 26px;
+            align-items: center;
+            justify-content: space-between;
+            display: flex;
+
+            &:before {
+                position: absolute;
+                content: "";
+                width: 8px;
+                height: 8px;
+                background: #777777;
+                display: block;
+                border-radius: 50%;
+                top: 14px;
+                left: 0px;
+            }
+
+            span {
+                color: #777;
+                font-family: @body_font_family;
+                transition: all 0.3s;
+                font-size: 14px;
+                font-weight: 400;
+                padding: 9px 0;
+                display: inline-block;
+                line-height: 1.3;
+            }
+
+            a {
+
+                color: #777777;
+                font-family: @body_font_family;
+                transition: all 0.3s;
+                font-size: 14px;
+                font-weight: 400;
+                padding: 9px 0;
+                display: inline-block;
+                line-height: 1.3;
+
+                &:hover {
+                    color: @primary_color;
+                }
+            }
+        }
+    }
+}
+.widget_pages {
+    &>ul {
+        &>li {
+            & > ul.children {
+                padding-left: 15px;
+            }
+        }
+    }
+}
+.widget_pages ul {
+    li {
+        justify-content: flex-start !important;
+
+    }
+
+    &> li{
+        position: relative;
+        list-style: none;
+        align-items: center;
+        &:before{
+            margin-right: 8px;
+            font-family: "Font Awesome 5 Free";
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
+            display: inline-block;
+            font-style: normal;
+            font-variant: normal;
+            text-rendering: auto;
+            line-height: 1;
+            content: "\f054";
+            font-weight: 900;
+            font-size: 10px;
+        }
+
+    }
+
+    ul {
+        ul li {
+            a {
+                padding-left: 25px;
+            }
+        }
+
+        ul li:after {
+            content: '--';
+            left: 15px;
+        }
+
+        li:before {
+            content: "";
+        }
+
+        li a {
+            padding-left: 0px;
+        }
+
+        li:after {
+            margin-top: 0;
+            content: '-';
+            position: absolute;
+            margin-right: 5px;
+            letter-spacing: 8px;
+            left: 0px;
+            display: flex;
+            top: 0px;
+        }
+
+        & > li:before {
+            margin-right: 15px;
+        }
+    }
+}
+
+.widget_categories ul {
+    ul {
+        ul li a {
+            padding-left: 30px;
+        }
+
+        ul li:after {
+            content: '--';
+        }
+
+        li:before {
+            content: "";
+        }
+
+        li a {
+            padding-left: 15px;
+        }
+
+        li:after {
+            margin-top: 0;
+            content: '-';
+            position: absolute;
+            margin-right: 5px;
+            letter-spacing: 8px;
+            left: 15px;
+            display: flex;
+            top: 0px;
+        }
+
+        & > li:before {
+            margin-right: 15px;
+        }
+    }
+}
+
+.widget_nav_menu {
+    ul {
+        > li {
+            padding: 0;
+            position: relative;
+            list-style: none;
+
+            &.menu-item-has-children {
+                > ul, .sub-menu {
+                    display: block;
+                    width: 100%;
+
+                    li {
+                        &:before {
+                            margin-right: 5px;
+                            content: '-';
+                            letter-spacing: 8px;
+                        }
+                    }
+
+                    ul {
+                        li {
+                            &:before {
+                                margin-right: 5px;
+                                content: '--';
+                            }
+                        }
+
+                        ul {
+                            li {
+                                &:before {
+                                    content: '---';
+                                }
+
+                                ul {
+                                    li {
+                                        &:before {
+                                            content: '----';
+                                        }
+
+                                        ul {
+                                            li {
+                                                &:before {
+                                                    content: '-----';
+                                                }
+
+                                                ul {
+                                                    li {
+                                                        &:before {
+                                                            content: '------';
+                                                        }
+
+                                                        ul {
+                                                            li {
+                                                                &:before {
+                                                                    content: '-------';
+                                                                }
+
+                                                                ul {
+                                                                    li {
+                                                                        &:before {
+                                                                            content: '--------';
+                                                                        }
+
+                                                                        ul {
+                                                                            li {
+                                                                                &:before {
+                                                                                    content: '----------';
+                                                                                }
+
+                                                                                ul {
+                                                                                    li {
+                                                                                        &:before {
+                                                                                            content: '-----------';
+                                                                                        }
+
+                                                                                        ul {
+                                                                                            li {
+                                                                                                &:before {
+                                                                                                    content: '------------';
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+.widget_recent_comments li.recentcomments {
+    margin-bottom: 15px;
+
+    & > a {
+        font-weight: 600;
+        line-height: normal;
+        display: block !important;
+    }
+}
+
+.widget_block h2 {
+    color: @black;
+    font-size: 18px;
+    margin: 0 0 20px 0;
+    font-weight: 500;
+}
+
+.wp-block-search .wp-block-search__label {
+    color: @black;
+    font-family:  @heading_font_family;
+}
+
+.widget_block .wp-block-latest-comments__comment-link {
+    font-weight: 600;
+    line-height: normal;
+    display: block !important;
+}
+
+.widget_categories ul > li {
+    position: relative;
+    list-style: none;
+    align-items: center;
+
+    &:before {
+        margin-right: 8px;
+        font-family: "Font Awesome 5 Free";
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        line-height: 1;
+        content: "\f054";
+        font-weight: 900;
+        font-size: 10px;
+    }
+
+    .tfl-categories-post-count {
+        margin-left: auto;
+    }
+}
+
+.widget ul, .widget ol {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+
+.sidebar .widget {
+    background: #fff;
+    padding: 30px;
+    line-height: 2;
+}
+
+#footer .widget {
+    padding: 0;
+    line-height: 2;
+    margin-bottom: 50px;
+    .widget-title {
+        color: #fff;
+    }
+
+    &.widget_rss {
+        a {
+            color: #fff;
+        }
+    }
+
+    &.widget_search {
+        background: transparent;
+    }
+}
+
+#main .widget a {
+    color: #11161e;
+    transition: all .3s;
+
+    &:hover {
+        color: @primary_color;
+    }
+}
+
+.widget_archive ul,
+.widget_block .wp-block-archives-list {
+    li {
+        position: relative;
+        display: flex;
+        align-items: center;
+        padding: 5px 0;
+        &:before {
+            content: "\f07c";
+            margin-right: 10px;
+            font-family: "Font Awesome 5 Free";
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
+            display: inline-block;
+            font-style: normal;
+            font-variant: normal;
+            text-rendering: auto;
+            line-height: 1;
+        }
+
+        a {
+
+        }
+
+        .tfl-archive-post-count {
+            margin-left: auto;
+        }
+    }
+}
+
+.widget_rss ul li cite {
+    color: @primary_color;
+}
+
+.widget_categories .nice-select ul.list li:before {
+    display: none;
+}
+
+.widget_archive .nice-select ul.list li:before {
+    display: none;
+}

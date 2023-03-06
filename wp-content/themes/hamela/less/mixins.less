@@ -1,0 +1,128 @@
+@-webkit-keyframes zoom-fade-two {
+    0% {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    50% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+    100% {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+}
+
+@keyframes zoom-fade-two {
+    0% {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    50% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+    100% {
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+}
+
+@keyframes animate {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7);
+    }
+    40% {
+        box-shadow: 0 0 0 50px rgba(255, 255, 255, 0);
+    }
+    80% {
+        box-shadow: 0 0 0 50px rgba(255, 255, 255, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 rgba(255, 255, 255, 0);
+    }
+}
+
+
+body.tfl_not_reviewing {
+    .elementor-container > .elementor-column.elementor-col-50 {
+        opacity: 0;
+
+        &:first-child {
+            transform: translateX(-25px);
+        }
+
+        &:last-child {
+            transform: translateX(25px);
+        }
+    }
+
+    .service-grid .services-item,
+    .tfl-portfolios-grid:not(.show_filter_portfolio) .portfolio-items .portfolio-item,
+    .elementor-container > .elementor-column.elementor-col-100,
+    .elementor-container > .elementor-column.elementor-col-25 {
+        opacity: 0;
+        transform: translateY(25px);
+    }
+
+    .tfl-portfolios-grid:not(.show_filter_portfolio) .portfolio-items .portfolio-item,
+    .service-grid .services-item,
+    .elementor-column {
+        transition: all 0.4s;
+
+        &.animated {
+            opacity: 1 !important;
+            transform: translate(0, 0) !important;
+        }
+    }
+
+    .no-animation .elementor-column {
+        opacity: 1 !important;
+        transform: translate(0,0) !important;
+        transition: all 0s;
+        -webkit-animation-duration: 0s;
+        animation-duration: 0s;
+    }
+
+}
+
+
+
+/* Buzz */
+@-webkit-keyframes hvr-buzz {
+    50% {
+        -webkit-transform: translateX(3px) rotate(2deg);
+        transform: translateX(3px) rotate(2deg);
+    }
+    100% {
+        -webkit-transform: translateX(-3px) rotate(-2deg);
+        transform: translateX(-3px) rotate(-2deg);
+    }
+}
+@keyframes hvr-buzz {
+    50% {
+        -webkit-transform: translateX(3px) rotate(2deg);
+        transform: translateX(3px) rotate(2deg);
+    }
+    100% {
+        -webkit-transform: translateX(-3px) rotate(-2deg);
+        transform: translateX(-3px) rotate(-2deg);
+    }
+}
+.hvr-buzz {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.hvr-buzz:hover, .hvr-buzz:focus, .hvr-buzz:active {
+    -webkit-animation-name: hvr-buzz;
+    animation-name: hvr-buzz;
+    -webkit-animation-duration: 0.15s;
+    animation-duration: 0.15s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
